@@ -23,6 +23,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COLS 5
 
 
+DYNAMIC_KEYMAP_LAYER_COUNT 8
+
+
 // wiring of each half
 #define MATRIX_ROW_PINS { GP26, GP27, GP28, GP29 }
 #define MATRIX_COL_PINS { GP6, GP7, GP3, GP4, GP2 }
