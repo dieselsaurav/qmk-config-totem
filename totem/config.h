@@ -22,8 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_ROWS 8
 #define MATRIX_COLS 5
 
-
-DYNAMIC_KEYMAP_LAYER_COUNT 8
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
 
 
 // wiring of each half
